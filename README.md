@@ -1,2 +1,2 @@
 # UNO-Object-Oriented
-![Class Diagram](/Class Diagram.png)
+![Class Diagram](https://github.com/AnthonyNaguib/UNO-Object-Oriented/blob/main/Class%20Diagram.png)
