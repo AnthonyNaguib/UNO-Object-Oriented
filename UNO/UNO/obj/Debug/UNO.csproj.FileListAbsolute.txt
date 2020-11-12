@@ -1,0 +1,19 @@
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\bin\Debug\UNO.exe.config
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\bin\Debug\UNO.exe
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\bin\Debug\UNO.pdb
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\obj\Debug\UNO.csprojAssemblyReference.cache
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\obj\Debug\UNO.exe
+C:\Users\The Boss\Desktop\UNO\UNO\UNO\obj\Debug\UNO.pdb
+C:\Uni\400069-1920\ACW\UNO\UNO\bin\Debug\UNO.exe.config
+C:\Uni\400069-1920\ACW\UNO\UNO\bin\Debug\UNO.exe
+C:\Uni\400069-1920\ACW\UNO\UNO\bin\Debug\UNO.pdb
+C:\Uni\400069-1920\ACW\UNO\UNO\obj\Debug\UNO.csprojAssemblyReference.cache
+C:\Uni\400069-1920\ACW\UNO\UNO\obj\Debug\UNO.exe
+C:\Uni\400069-1920\ACW\UNO\UNO\obj\Debug\UNO.pdb
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\bin\Debug\UNO.exe.config
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\bin\Debug\UNO.exe
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\bin\Debug\UNO.pdb
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\obj\Debug\UNO.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\obj\Debug\UNO.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\obj\Debug\UNO.exe
+C:\Users\Anthony\Documents\Visual Studio 2019\UNO\UNO\UNO\obj\Debug\UNO.pdb
